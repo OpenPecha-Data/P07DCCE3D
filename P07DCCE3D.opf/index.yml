@@ -1,0 +1,184 @@
+id: 878221e4cae64832a14743613974cc93
+annotation_type: index
+revision: '00001'
+annotations:
+  bd6b34a6e87a40b1a11fee0fa28726d2:
+    work_id: W033E724E
+    span:
+      vol: Antaroddāna
+      start: 0
+      end: 311
+  81080a108eef468f92db7b0dd410e19d:
+    work_id: W42233633
+    span:
+      vol: Bodily imperfections
+      start: 0
+      end: 3899
+  93e9d85e39b448e883568f3c7c711845:
+    work_id: WD25A2E95
+    span:
+      vol: Buddha’s smile
+      start: 0
+      end: 15679
+  9611cb8140754b39a4ff75c434b2ba7c:
+    work_id: W82628A98
+    span:
+      vol: CIII_Buddha in Vaiśālī
+      start: 0
+      end: 80549
+  62686819e44a4f62959fcac175fe6495:
+    work_id: WC5A1CAC7
+    span:
+      vol: CII_Teacher I, Pūraṇa Kāśyapa
+      start: 0
+      end: 2444
+  a6327ee2d1f0442598569cdc8dbdeb30:
+    work_id: W9A993539
+    span:
+      vol: CII_Teacher II, Maskarin Gośālīputra
+      start: 0
+      end: 2114
+  4b91cca5ab0c4f019da7793092c17be6:
+    work_id: W83050D5F
+    span:
+      vol: CII_Teacher III, Saṃjayin Vairaṭīputra
+      start: 0
+      end: 304077
+  4a14c731fd664415a53cfac147e45ed7:
+    work_id: W62DABA5C
+    span:
+      vol: CI_Śāriputra and Mahāmaudgalyāyana
+      start: 0
+      end: 407382
+  d9c3bb8582f74b37bc6e9f24957d69d0:
+    work_id: WE694D4BE
+    span:
+      vol: Historical events
+      start: 0
+      end: 17433
+  1b9af3d11ab04cb282a496823322c7ab:
+    work_id: W737EC3A7
+    span:
+      vol: Maudgalyāyana’s journey to Hell and Heaven
+      start: 0
+      end: 20851
+  987fef5f36034da7b14d6f478d96d482:
+    work_id: W6BB29E72
+    span:
+      vol: Mātṛghātaka
+      start: 0
+      end: 13145
+  79019f87e2bc4209826b001d7f9a8771:
+    work_id: W88DC44BC
+    span:
+      vol: Nāgakumāra
+      start: 0
+      end: 17523
+  dc2a90412ac84228b8e049a46c983993:
+    work_id: W833B6093
+    span:
+      vol: Nāgakumārāvadāna
+      start: 0
+      end: 7371
+  135b4cd107f54a49aec6bcbd4c97147d:
+    work_id: W4CDEB266
+    span:
+      vol: Pitṛghātaka
+      start: 0
+      end: 12810
+  21a8c6ac40cb4d25bc2eac8054efab2d:
+    work_id: W9D74C598
+    span:
+      vol: Pravrajyavastupiṇḍoddāna
+      start: 0
+      end: 181
+  076e2f605d8a408488edf95d1bc03fb5:
+    work_id: W2157F200
+    span:
+      vol: Rule against ordination of Tīrthkas
+      start: 0
+      end: 3410
+  6a10a8cf8bf34e1ab310290a1a903889:
+    work_id: WE4AFFDA4
+    span:
+      vol: Rules for pravrajyā and upasaṃpadā
+      start: 0
+      end: 59825
+  79172552bdc3423d945a44cbbc4c646a:
+    work_id: W2D46C571
+    span:
+      vol: The conversion of Koṣṭhila
+      start: 0
+      end: 16127
+  24586b61a1384b099b3fa5d8f3a6234a:
+    work_id: W88FEAA38
+    span:
+      vol: The conversion of Maudgalyāyana and Śāriputra
+      start: 0
+      end: 21212
+  e9cb3e1c5980428daeecc4e8667f07da:
+    work_id: W33437827
+    span:
+      vol: Uddāna
+      start: 0
+      end: 583
+  48b0dafc972d4662b1818aded0452a01:
+    work_id: WFC6B9CC5
+    span:
+      vol: Why Koṣṭhila is pratisaṃvedin
+      start: 0
+      end: 1503
+  7a77f9aa0c4f406ca9580241fcb15e45:
+    work_id: W44A4AEAF
+    span:
+      vol: Why Maudgalyāna has magical power 1
+      start: 0
+      end: 2751
+  2c08f60d1051461c953ba6c186e8985d:
+    work_id: WA67B0318
+    span:
+      vol: Why Maudgalyāna has magical power 2
+      start: 0
+      end: 1036
+  4f3e76d2347547f9bd23537c0b80faa6:
+    work_id: W45471D4B
+    span:
+      vol: Why Saṃgharakṣita was born in a rich family
+      start: 0
+      end: 5088
+  33dd723503d848ea8e7053036072cfe3:
+    work_id: W48199608
+    span:
+      vol: Why Śāriputra was neither rich nor poor
+      start: 0
+      end: 5552
+  4aa199378d5747e88bada35fcaeccac7:
+    work_id: W71DF96D1
+    span:
+      vol: Why Śāriputra was wise 1
+      start: 0
+      end: 6225
+  9405b6430e644f1e89fbebc89809714e:
+    work_id: WA6B7CED1
+    span:
+      vol: Why Śāriputra was wise 2
+      start: 0
+      end: 7102
+  d8d2342bef2e4ee1baaf8c50926cfbd4:
+    work_id: W9F1777F1
+    span:
+      vol: Ānanda’s two nephews
+      start: 0
+      end: 4163
+  a564ce335a664907bcce21f5cb09af95:
+    work_id: WE7929FE9
+    span:
+      vol: ānantaryāni karmāṇi, pārājika, utkṣepaṇīya
+      start: 0
+      end: 8642
+  ae3823f8d8eb4c038cf5eda308df4738:
+    work_id: W089DC913
+    span:
+      vol: Śāriputra
+      start: 0
+      end: 30742
